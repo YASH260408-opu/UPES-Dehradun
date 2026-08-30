@@ -27,23 +27,23 @@ C
 
 **Input 1:**
 
-```text
+```
 3 4 
 ```
 
 **Output:**
 
-```text
+```
 Sum = 7
 ```
 **Input 2:**
 
-'''text
+'''
 -1 20
 '''
 
 **Output**
-'''text
+'''
 Sum=19
 '''
 
@@ -51,13 +51,13 @@ Sum=19
 
 **Input 1:**
 
-```text
+```
 10 2 
 ```
 
 **Output:**
 
-```text
+```
 Sum = 12
 Difference = 8
 Product = 200
@@ -65,17 +65,17 @@ Quotient = 5
 ```
 **Input 2:**
 
-'''text
+'''
 7 3
 '''
 
 **Output**
 
-'''text
+'''
 Sum = 10
 Difference = 4
 Product = 21
-Quotient = 2
+Quotient = 2      
 ```
 
 ## Source Code
